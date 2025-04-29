@@ -1,0 +1,1 @@
+The primary purpose of this project seems to be to demonstrate the creation and functionality of popover components, which are small overlay elements that display additional information when triggered by user interactions such as clicks or hovers. This project serves as a practical example for understanding how to implement popovers using standard web technologies
